@@ -1,0 +1,76 @@
+{
+  "login": [
+    {
+      "id": "4c041fea-dfe0-4da0-bc53-ad09bbbfc36d",
+      "email": "test@naver.com",
+      "password": "0123",
+      "userName": "승범",
+      "isLogin": false
+    },
+    {
+      "id": "8ba9b329-1d2e-4112-a2ea-223be773fb7f",
+      "email": "test00@naver.com",
+      "password": "3545",
+      "userName": "짜장면",
+      "isLogin": false
+    },
+    {
+      "id": "66b6f5ef-437f-41db-b014-27d13d991a0d",
+      "email": "부계정",
+      "password": "1234",
+      "userName": "진라면",
+      "isLogin": false
+    },
+    {
+      "id": "efc843af-26d9-445b-ab23-56d92301ed7d",
+      "email": "name@naver.com",
+      "password": "0123",
+      "userName": "레쓰비",
+      "isLogin": false
+    },
+    {
+      "id": "b8d92820-acfc-4e35-9a0f-353d2dbb7a28",
+      "email": "test@gmail.com",
+      "password": "3545",
+      "userName": "로그인",
+      "isLogin": true
+    }
+  ],
+  "write": [
+    {
+      "id": "b5138d96-63c5-4553-9d30-8e3bc75e2a55",
+      "title": "생각 비우기 연습",
+      "contents": "도움이 되는 책이었네여",
+      "writeName": "진라면",
+      "search": false
+    },
+    {
+      "id": "ba8af8ad-c400-41f6-b774-94322f984c7c",
+      "title": "데미안",
+      "contents": "헤르만 헤세",
+      "writeName": "레쓰비",
+      "search": false
+    },
+    {
+      "id": "b221b283-db9e-4902-9408-b6e6743ea382",
+      "title": "인간 실격",
+      "contents": "다자이 오사무\n",
+      "writeName": "승범",
+      "search": false
+    },
+    {
+      "id": "5769ba47-dc46-4fee-a794-40b7a95d7a19",
+      "title": "생각을 멈춰라",
+      "contents": "제목이 오래 기억에 남네요",
+      "writeName": "짜장면",
+      "search": false
+    },
+    {
+      "id": "56d2d641-a0a9-406d-8f8f-44a74d488d57",
+      "title": "모든것은 기초부터",
+      "contents": "기초가 제일 중요하다",
+      "writeName": "로그인",
+      "search": false
+    }
+  ]
+}
